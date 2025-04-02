@@ -47,3 +47,13 @@ Personal project for my own use
 **stringrev.c** => reverse the string given 
 
 **trouveetremplace.c** => in the given string (first arg), find the letter (second arg) and print the other letter (third arg)
+
+**PuissanceDe2.c** => (used in a video on my channel) demonstrate a way to know if the input is a power of 2
+
+**xor_swap.c** => (used in a video on my channel) demonstrate a way to swap values with xor
+
+**itob.c** => (used in a video on my channel) demonstrate a way to print on stdout a byte (with the leading 0)
+
+**LowerUpper.c** => (used in a video on my channel) demonstrate a way to change from lowercase/uppercase with bitwise operators
+
+**turn.c** => (not used in the final version of a video on my channel) demonstrate a way to change nibbles order
