@@ -52,6 +52,18 @@ Personal project for my own use
 
 **xor_swap.c** => (used in a video on my channel) demonstrate a way to swap values with xor
 
+**SelectionSort.c** => selection sort algorithm
+
+**exercice8_3** => exercice from internet using argc, argv
+
+**BubbleSort.c** => implementation/demonstration of bubble sort algorithm
+
+**BinarySearch** => example of binary search with comparison
+
+**SortedArrayFusion** => fusion of 2 sorted array (dynamic memory)
+
+**ProduitDeuxVecteur** => calculation with 2 arrays / vector
+
 **itob.c** => (used in a video on my channel) demonstrate a way to print on stdout a byte (with the leading 0)
 
 **LowerUpper.c** => (used in a video on my channel) demonstrate a way to change from lowercase/uppercase with bitwise operators
