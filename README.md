@@ -69,3 +69,5 @@ Personal project for my own use
 **LowerUpper.c** => (used in a video on my channel) demonstrate a way to change from lowercase/uppercase with bitwise operators
 
 **turn.c** => (not used in the final version of a video on my channel) demonstrate a way to change nibbles order
+
+**lecture.c** => (exercice from piscine42 - C10) using read/open/close/read/write print on stdout the content of a file
