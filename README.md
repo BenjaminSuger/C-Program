@@ -71,3 +71,5 @@ Personal project for my own use
 **turn.c** => (not used in the final version of a video on my channel) demonstrate a way to change nibbles order
 
 **lecture.c** => (exercice from piscine42 - C10) using read/open/close/read/write print on stdout the content of a file
+
+**main_printf_correction** => used for evaluation peer to peer of a project in 42 schools
