@@ -74,4 +74,8 @@ Personal project for my own use
 
 **main_printf_correction** => used for evaluation peer to peer of a project in 42 schools
 
-**brainfuck.c** => (used in a video on my channel) small brainfuck interpreter (more a demo than a real one) 
+**brainfuck.c** => (used in a video on my channel) small brainfuck interpreter (more a demo than a real one)
+
+**powerset_like** => an exercise like powerset from leetcode but not totally with a little twist
+
+**backtracking_parenthesis** => an exercise where I explore backtracking with parenthesis generation. Constraints are: should print only balanced solutions and with the minimum to remove (to avoid empty strings or too many solutions)
